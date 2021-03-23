@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "cardSize": "col-sm-4 py-4",
+    "image": "../../assets/taking-test.jpg",
+    "imageAltText": "a math test",
+    "cardTitle": "Quiz App",
+    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
+    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
+    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+  },
+  {
+    "id": 2,
+    "cardSize": "col-sm-4 py-4",
+    "image": "../../assets/taking-test.jpg",
+    "imageAltText": "a math test",
+    "cardTitle": "Quiz App",
+    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
+    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
+    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+  },
+  {
+    "id": 3,
+    "cardSize": "col-sm-4 py-4",
+    "image": "../../assets/taking-test.jpg",
+    "imageAltText": "a math test",
+    "cardTitle": "Quiz App",
+    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
+    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
+    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+  },
+  {
+    "id": 4,
+    "cardSize": "col-sm-4 py-4",
+    "image": "images/taking-test.jpg",
+    "imageAltText": "a math test",
+    "cardTitle": "Quiz App",
+    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
+    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
+    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+  },
+  {
+    "id": 5,
+    "cardSize": "col-sm-4 py-4",
+    "image": "images/taking-test.jpg",
+    "imageAltText": "a math test",
+    "cardTitle": "Quiz App",
+    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
+    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
+    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+  },
+  {
+    "id": 6,
+    "cardSize": "col-sm-4 py-4",
+    "image": "images/taking-test.jpg",
+    "imageAltText": "a math test",
+    "cardTitle": "Quiz App",
+    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
+    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
+    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+  }
+]
