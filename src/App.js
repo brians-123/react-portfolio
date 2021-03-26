@@ -8,7 +8,6 @@ import { AboutMe } from "./components/AboutMe";
 import { Project } from "./components/Project";
 import projects from "./projects.json";
 import React, { useState } from "react";
-import { WorkWrapper } from "./components/WorkWrapper";
 
 function App() {
   // var state = { projects };
@@ -23,18 +22,23 @@ function App() {
             <AboutMe />
           </Route>
           <Route path="/work">
-            {projects.map(project => (
-              <Project
-                id={project.id}
-                key={project.id}
-                image={project.image}
-                imageAltText={project.imageAltText}
-                cardTitle={project.cardTitle}
-                cardText={project.cardText}
-                deployedLink={project.deployedLink}
-                repoLink={project.repoLink}
-              />
-            ))}
+            <div className="container">
+              <div className="row">
+                {projects.map(project => (
+                  <Project
+                    id={project.id}
+                    key={project.id}
+                    cardSize={project.cardSize}
+                    image={project.image}
+                    imageAltText={project.imageAltText}
+                    cardTitle={project.cardTitle}
+                    cardText={project.cardText}
+                    deployedLink={project.deployedLink}
+                    repoLink={project.repoLink}
+                  />
+                ))}
+              </div>
+            </div>
           </Route>
           <Route path="/">
             <Home />

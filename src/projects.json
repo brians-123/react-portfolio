@@ -2,27 +2,26 @@
   {
     "id": 1,
     "cardSize": "col-sm-4 py-4",
-    "image": "../../assets/taking-test.jpg",
-    "imageAltText": "a math test",
-    "cardTitle": "Quiz App",
-    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
-    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
-    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+    "image": "assets/typewriter.jpg",
+    "imageAltText": "typewriter",
+    "cardTitle": "Readme Creator",
+    "cardText": "Node app using npm inquirer package and javascript to build a dynamic readme file for projects. This was used in all my projects after its creation.",
+    "repoLink": "https://github.com/brians-123/Node-js-readme-creator"
   },
   {
     "id": 2,
     "cardSize": "col-sm-4 py-4",
-    "image": "../../assets/taking-test.jpg",
-    "imageAltText": "a math test",
-    "cardTitle": "Quiz App",
-    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
-    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
-    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+    "image": "assets/lock.jpg",
+    "imageAltText": "padlock around a fence",
+    "cardTitle": "Random Password Creator",
+    "cardText": "Responsive site to generate employee passwords with javascript. Password complexity is determined by user selection.",
+    "deployedLink": "https://brians-123.github.io/Random-Password-Creator/",
+    "repoLink": "https://github.com/brians-123/Random-Password-Creator"
   },
   {
     "id": 3,
     "cardSize": "col-sm-4 py-4",
-    "image": "../../assets/taking-test.jpg",
+    "image": "assets/taking-test.jpg",
     "imageAltText": "a math test",
     "cardTitle": "Quiz App",
     "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
@@ -31,32 +30,32 @@
   },
   {
     "id": 4,
-    "cardSize": "col-sm-4 py-4",
-    "image": "images/taking-test.jpg",
-    "imageAltText": "a math test",
-    "cardTitle": "Quiz App",
-    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
-    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
-    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+    "cardSize": "col-sm-6",
+    "image": "assets/wall-street.jpg",
+    "imageAltText": "Street Sign for Wall Street",
+    "cardTitle": "Stocks and Taxes",
+    "cardText": "Pulls stock quotes and tax info via API allowing users to buy, sell, and see expected returns after taxes.",
+    "deployedLink": "https://zhanez.github.io/Project-1/",
+    "repoLink": "https://github.com/zhanez/Project-1"
   },
   {
     "id": 5,
-    "cardSize": "col-sm-4 py-4",
-    "image": "images/taking-test.jpg",
-    "imageAltText": "a math test",
-    "cardTitle": "Quiz App",
-    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
-    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
-    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+    "cardSize": "col-sm-6",
+    "image": "assets/weather-app.jpg",
+    "imageAltText": "Thunderstorm",
+    "cardTitle": "Weather Forecast",
+    "cardText": "Use weather API to search by city, and save data in local storage. Uses javascript, bootstrap, jquery and APIs.",
+    "deployedLink": "https://brians-123.github.io/06-Server-Side-Weather-API/",
+    "repoLink": "https://github.com/brians-123/06-Server-Side-Weather-API"
   },
   {
     "id": 6,
-    "cardSize": "col-sm-4 py-4",
-    "image": "images/taking-test.jpg",
-    "imageAltText": "a math test",
-    "cardTitle": "Quiz App",
-    "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
-    "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
-    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+    "cardSize": "col-sm-12 py-4",
+    "image": "assets/directory.jpg",
+    "imageAltText": "A sign above a gate with the word directory in it",
+    "cardTitle": "React Employee Directory",
+    "cardText": "Uses react and Random User API to similate sorting and filtering of an employee directory",
+    "deployedLink": "https://brians-123.github.io/react-employee-directory/",
+    "repoLink": "https://github.com/brians-123/react-employee-directory"
   }
 ]
