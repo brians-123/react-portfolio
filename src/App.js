@@ -35,6 +35,7 @@ function App() {
                     cardText={project.cardText}
                     deployedLink={project.deployedLink}
                     repoLink={project.repoLink}
+                    mouseOverImg={project.mouseOverImg}
                   />
                 ))}
               </div>

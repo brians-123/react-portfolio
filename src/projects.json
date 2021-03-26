@@ -6,17 +6,19 @@
     "imageAltText": "typewriter",
     "cardTitle": "Readme Creator",
     "cardText": "Node app using npm inquirer package and javascript to build a dynamic readme file for projects. This was used in all my projects after its creation.",
-    "repoLink": "https://github.com/brians-123/Node-js-readme-creator"
+    "repoLink": "https://github.com/brians-123/Node-js-readme-creator",
+    "mouseOverImg": "assets/lock.jpg"
   },
   {
     "id": 2,
     "cardSize": "col-sm-4 py-4",
     "image": "assets/lock.jpg",
     "imageAltText": "padlock around a fence",
-    "cardTitle": "Random Password Creator",
+    "cardTitle": "Random Password Generator",
     "cardText": "Responsive site to generate employee passwords with javascript. Password complexity is determined by user selection.",
     "deployedLink": "https://brians-123.github.io/Random-Password-Creator/",
-    "repoLink": "https://github.com/brians-123/Random-Password-Creator"
+    "repoLink": "https://github.com/brians-123/Random-Password-Creator",
+    "mouseOverImg": "assets/lock.jpg"
   },
   {
     "id": 3,
@@ -26,7 +28,8 @@
     "cardTitle": "Quiz App",
     "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
     "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
-    "repoLink": "https://github.com/brians-123/Javascript-Quiz"
+    "repoLink": "https://github.com/brians-123/Javascript-Quiz",
+    "mouseOverImg": "assets/lock.jpg"
   },
   {
     "id": 4,
@@ -36,7 +39,8 @@
     "cardTitle": "Stocks and Taxes",
     "cardText": "Pulls stock quotes and tax info via API allowing users to buy, sell, and see expected returns after taxes.",
     "deployedLink": "https://zhanez.github.io/Project-1/",
-    "repoLink": "https://github.com/zhanez/Project-1"
+    "repoLink": "https://github.com/zhanez/Project-1",
+    "mouseOverImg": "assets/lock.jpg"
   },
   {
     "id": 5,
@@ -46,7 +50,8 @@
     "cardTitle": "Weather Forecast",
     "cardText": "Use weather API to search by city, and save data in local storage. Uses javascript, bootstrap, jquery and APIs.",
     "deployedLink": "https://brians-123.github.io/06-Server-Side-Weather-API/",
-    "repoLink": "https://github.com/brians-123/06-Server-Side-Weather-API"
+    "repoLink": "https://github.com/brians-123/06-Server-Side-Weather-API",
+    "mouseOverImg": "assets/lock.jpg"
   },
   {
     "id": 6,
@@ -56,6 +61,7 @@
     "cardTitle": "React Employee Directory",
     "cardText": "Uses react and Random User API to similate sorting and filtering of an employee directory",
     "deployedLink": "https://brians-123.github.io/react-employee-directory/",
-    "repoLink": "https://github.com/brians-123/react-employee-directory"
+    "repoLink": "https://github.com/brians-123/react-employee-directory",
+    "mouseOverImg": "assets/lock.jpg"
   }
 ]

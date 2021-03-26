@@ -1,14 +1,34 @@
-import React from "react";
+import React, { useState } from "react";
 
 export function Project(props) {
+  //will use the state here and change it on each mouseEnter and mouseExit
+  const [imageSource, setImageSource] = React.useState(props.image);
   //add styling from html pages into each component
   return (
     <div className={props.cardSize}>
       <div className="card">
         <img
           className="card-img-top"
-          src={props.image}
           alt={props.imageAltText}
+          //create a mouseover effect that calls a function
+          //use this to update state
+
+          // onLoad={setImageSource(props.image)}
+          onMouseOver={() => {
+            if (imageSource === props.image) {
+              // console.log(imageSource);
+              // console.log(props.image);
+              console.log(props.mouseOverImg);
+              setImageSource(props.mouseOverImg);
+            } else {
+              // console.log(props.mouseOverImg);
+              setImageSource(props.image);
+              // console.log(imageSource);
+            }
+          }}
+          src={imageSource}
+
+          // onMouseOver={props.onMouseOver}
         />
         <div className="card-body">
           <h5 className="card-title">{props.cardTitle}</h5>
