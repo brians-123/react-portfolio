@@ -7,7 +7,7 @@
     "cardTitle": "Readme Creator",
     "cardText": "Node app using npm inquirer package and javascript to build a dynamic readme file for projects. This was used in all my projects after its creation.",
     "repoLink": "https://github.com/brians-123/Node-js-readme-creator",
-    "mouseOverImg": "assets/lock.jpg"
+    "mouseOverImg": "assets/professional-readme-generator.gif"
   },
   {
     "id": 2,
@@ -18,7 +18,7 @@
     "cardText": "Responsive site to generate employee passwords with javascript. Password complexity is determined by user selection.",
     "deployedLink": "https://brians-123.github.io/Random-Password-Creator/",
     "repoLink": "https://github.com/brians-123/Random-Password-Creator",
-    "mouseOverImg": "assets/lock.jpg"
+    "mouseOverImg": "assets/password-generator.gif"
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "cardText": "Gives 60 seconds to finish a multiple choice quiz. High scores are provided once finished. Uses vanilla javascript.",
     "deployedLink": "https://brians-123.github.io/Javascript-Quiz/",
     "repoLink": "https://github.com/brians-123/Javascript-Quiz",
-    "mouseOverImg": "assets/lock.jpg"
+    "mouseOverImg": "assets/javascript-quiz.gif"
   },
   {
     "id": 4,
