@@ -40,7 +40,7 @@
     "cardText": "Pulls stock quotes and tax info via API allowing users to buy, sell, and see expected returns after taxes.",
     "deployedLink": "https://zhanez.github.io/Project-1/",
     "repoLink": "https://github.com/zhanez/Project-1",
-    "mouseOverImg": "assets/lock.jpg"
+    "mouseOverImg": "assets/stock-and-tax.gif"
   },
   {
     "id": 5,
@@ -51,7 +51,7 @@
     "cardText": "Use weather API to search by city, and save data in local storage. Uses javascript, bootstrap, jquery and APIs.",
     "deployedLink": "https://brians-123.github.io/06-Server-Side-Weather-API/",
     "repoLink": "https://github.com/brians-123/06-Server-Side-Weather-API",
-    "mouseOverImg": "assets/lock.jpg"
+    "mouseOverImg": "assets/weather-dashboard.gif"
   },
   {
     "id": 6,
@@ -62,6 +62,6 @@
     "cardText": "Uses react and Random User API to similate sorting and filtering of an employee directory",
     "deployedLink": "https://brians-123.github.io/react-employee-directory/",
     "repoLink": "https://github.com/brians-123/react-employee-directory",
-    "mouseOverImg": "assets/lock.jpg"
+    "mouseOverImg": "assets/react-employee-directory.gif"
   }
 ]
