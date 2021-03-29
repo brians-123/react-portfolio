@@ -3,7 +3,7 @@ import React from "react";
 export function Footer(props) {
   return (
     // return <div>Contact me</div>;
-    <div className="container p-4">
+    <div className="container p-4" id="the-footer">
       <div className="row">
         <div className="col-lg-3 col-md-6 mb-4 mb-md-0">
           <h5 className="text-uppercase text-center ">

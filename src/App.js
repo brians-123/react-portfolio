@@ -13,7 +13,7 @@ function App() {
   // var state = { projects };
   return (
     <Router>
-      <div>
+      <div className="the-body">
         <Header />
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
