@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { AboutMe } from "./components/AboutMe";
 import { Project } from "./components/Project";
 import projects from "./projects.json";
-import React, { useState } from "react";
+import React from "react";
 
 function App() {
   // var state = { projects };

@@ -38,9 +38,7 @@ export function Footer(props) {
         </div>
         <div className="col-lg-3 col-md-6 mb-4 mb-md-0">
           <h5 className="text-uppercase text-center">
-            <a href="#" className="text-dark">
-              Phone: 555-5555
-            </a>
+            <div className="text-dark">Phone: 555-5555</div>
           </h5>
         </div>
       </div>

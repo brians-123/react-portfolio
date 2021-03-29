@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 export function Project(props) {
   //will use the state here and change it on each mouseEnter and mouseExit
